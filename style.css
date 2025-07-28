@@ -1,0 +1,52 @@
+div{
+    background-color: black;
+    width: 205px;
+    height: 640px;
+      margin: auto;
+    
+    
+
+     
+     
+}
+#one{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 50%;
+}
+#two{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius: 50%; 
+}
+#three{
+     height: 200px;
+    width: 200px;
+    background-color: green;
+    border-radius: 50%;
+}
+h1{
+       color:white;
+   
+   
+    text-decoration:underline;
+    text-decoration-color: red;
+    text-shadow: 2px 2px 2px yellow;
+      background-color: black;
+    width: 205px;
+      margin: auto;
+      text-align: center;
+
+    
+    
+    
+    
+}
+body{
+    background-color: rgb(184, 205, 245);
+
+
+}
+   
